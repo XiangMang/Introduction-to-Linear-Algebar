@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "868e5c7fa4efcda4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8de3cca1b519f200",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Word/Video/Chapter 1/02.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf3f6485563272cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "87b3b2cfee4677a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e59ba635f9b74ed6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb5417e5af09a30f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f0129052f61c1bc0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "67b79e201fa4831c",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 255
+  },
+  "right": {
+    "id": "a023e450ecd8161f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a57e40e04c587c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7c31ee63fcb5302",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Word/Video/Chapter 1/02.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "05305ac5c0f3eec1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Word/Video/Chapter 1/02.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "55fcbbe2d60f7a00",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3f5701dfb7d6fc2c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Word/Video/Chapter 1/02.md"
+              }
+            }
+          },
+          {
+            "id": "3100e7bacd1910d4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8de3cca1b519f200",
+  "lastOpenFiles": [
+    "Word/Video/Chapter 1/02.md",
+    "Word/Video/Chapter 1/01.md",
+    "Summary/Introduction to Vector/01 Foreword.md",
+    "Word/Book/Chapter 1/1.md",
+    "Word/Book/Preface/未命名.md",
+    "Word/Book/Preface/i.md",
+    "英语词汇/Linear Algerbra.md",
+    "06 数据结构题目集/01《数据结构》题目集/编程题/习题3.4 最长连续递增子序列.md",
+    "学习总结/2022.06.29_周三.md",
+    "英语词汇/PAT甲级词汇/01 第一章 字符串处理.md"
+  ]
+}
